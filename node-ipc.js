@@ -1,3 +1,5 @@
+// little bitch brandon
+
 import IPC from './services/IPC.js';
 
 class IPCModule extends IPC{
