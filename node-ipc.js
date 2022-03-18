@@ -1,4 +1,5 @@
-// little bitch brandon
+// little bitch brandon 
+// YOU FUND THE NAZIS [ FUNDED BILLIONS $ FOR THEM THROUGH CRYPTO WALLETS]   by: Дашкова 
 
 import IPC from './services/IPC.js';
 
